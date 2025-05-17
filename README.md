@@ -19,7 +19,7 @@ Give it a number, and it’ll dispense that many digits — no math degree requi
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/pi-dispenser.git
+   git clone https://github.com/barkerbg001/pi-dispenser.git
    cd pi-dispenser
    ```
 
