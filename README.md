@@ -1,13 +1,13 @@
 # 🥧 pi-dispenser
 
-A high-speed Python script that calculates any number of Pi digits using the **Gauss-Legendre algorithm**.
+A high-speed Python script that calculates any number of Pi digits.
 Give it a number, and it’ll dispense that many digits — no math degree required.
 
 ---
 
 ## 🚀 Features
 
-* ⚡ Fast and precise with the Gauss-Legendre algorithm
+* ⚡ Fast and precise
 * 🔢 Specify how many digits of Pi to compute
 * 🐍 Pure Python using the `decimal` module
 * 🖥️ Command-line interface (CLI) ready
@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔖 Tags
 
-`python` • `pi` • `math` • `cli-tool` • `gauss-legendre` • `pi-digits` • `educational`
+`python` • `pi` • `math` • `cli-tool` • `pi-digits` • `educational`
 
 ---
 
