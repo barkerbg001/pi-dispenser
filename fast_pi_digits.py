@@ -1,7 +1,3 @@
-# Fast Pi Digits Calculator
-# This script calculates digits of Pi using the Gauss-Legendre algorithm for high speed and accuracy.
-# Usage: Run this script and specify the number of digits you want to calculate.
-
 import decimal
 import math
 
